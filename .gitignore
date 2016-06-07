@@ -60,4 +60,8 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# perffered convention for virtualenv
 .venv/
+# emacs twiddle files
+*~
