@@ -21,6 +21,7 @@ htmlhelp_basename = 'AdministrativeInitiativeCanvasdoc'
 html_theme_options = {
     'github_user': 'envris',
     'github_repo': 'initiative_canvas',
+    'github_banner': 'true'
 }
 
 
