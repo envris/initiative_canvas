@@ -17,6 +17,13 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 htmlhelp_basename = 'AdministrativeInitiativeCanvasdoc'
 
+# -- Options for Alabaster theme ------------------------------------------
+html_theme_options = {
+    'github_user': 'envris',
+    'github_repo': 'initiative_canvas',
+}
+
+
 # -- Options for LaTeX output ---------------------------------------------
 latex_elements = {
      'papersize': 'A4',
